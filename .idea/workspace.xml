@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e56544b5-4902-44b9-beb7-47151295bab5" name="Changes" comment="Initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RF97mjw7f1uORH3bwuEve6JekK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/EmilBurganov/Desktop/Веб - разработка/Startups/assets/images&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\EmilBurganov\Desktop\Веб - разработка\Startups\assets\images" />
+      <recent name="C:\Users\EmilBurganov\Desktop\Веб - разработка\Startups\assets\images\socials" />
+      <recent name="C:\Users\EmilBurganov\Desktop\Веб - разработка\Startups\assets\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\EmilBurganov\Desktop\Веб - разработка\Startups\assets\images\socials" />
+      <recent name="C:\Users\EmilBurganov\Desktop\Веб - разработка\Startups\assets\fonts\Inter" />
+      <recent name="C:\Users\EmilBurganov\Desktop\Веб - разработка\Startups\assets\fonts\AchitectsDaughter" />
+      <recent name="C:\Users\EmilBurganov\Desktop\Веб - разработка\Startups\assets\fonts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e56544b5-4902-44b9-beb7-47151295bab5" name="Changes" comment="" />
+      <created>1686834802948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686834802948</updated>
+      <workItem from="1686834803966" duration="2122000" />
+      <workItem from="1686843497080" duration="19541000" />
+      <workItem from="1686901012579" duration="6868000" />
+      <workItem from="1686908368312" duration="303000" />
+      <workItem from="1686908764475" duration="140000" />
+      <workItem from="1686916956009" duration="1450000" />
+      <workItem from="1687424904085" duration="5408000" />
+      <workItem from="1689961423936" duration="793000" />
+      <workItem from="1690299074568" duration="2454000" />
+      <workItem from="1690307374020" duration="6000" />
+      <workItem from="1696520474838" duration="123000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1686907434240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686907434240</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1686908618502</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686908618502</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1687430965801</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687430965801</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1690299359981</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690299359981</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1690299657410</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690299657410</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit">
+      <created>1690299849120</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690299849120</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1690300186748</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690300186748</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit">
+      <created>1690300257354</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690300257354</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit">
+      <created>1690301058610</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690301058610</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit">
+      <created>1690301182360</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690301182360</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
